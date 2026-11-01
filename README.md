@@ -43,7 +43,7 @@ I am a DevOps Engineer focused on automation, cloud infrastructure, and platform
 |---|---|---|
 | [**AWS GitOps Platform**](https://github.com/menakamaheswari1234-cpu/aws-gitops-platform) | End-to-end GitOps on AWS: infrastructure automation, Kubernetes deployment, CI checks, and monitoring patterns | `AWS` `Terraform` `Kubernetes` `ArgoCD` `GitHub Actions` `Prometheus` `Grafana` |
 | [**DevOps Portfolio**](https://github.com/menakamaheswari1234-cpu/devops-portfolio) | Hands-on projects across CI/CD, AWS automation, Ansible, DevSecOps, Kubernetes monitoring, and GitOps | `Jenkins` `Ansible` `Docker` `Trivy` `SonarQube` |
-| [**Python for DevOps**](https://github.com/menakamaheswari1234-cpu/python-for-devops) | Python scripts for automating real DevOps workflows | `Python` `Bash` `AWS` |
+| [**Cloud Platform Engineering**](https://github.com/menakamaheswari1234-cpu/cloud-platform-engineering) | Terraform EKS platform with remote-state bootstrap, Jenkins DevSecOps pipeline (SonarQube, Trivy), ArgoCD GitOps, and Python health checks | `AWS` `Terraform` `EKS` `Jenkins` `ArgoCD` `Python` |
 
 ---
 
