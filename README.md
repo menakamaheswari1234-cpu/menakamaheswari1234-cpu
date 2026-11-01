@@ -58,7 +58,7 @@ I am a DevOps Engineer focused on automation, cloud infrastructure, and platform
 
 ## 📌 Portfolio Note
 
-The repositories above represent practical learning and implementation work in cloud, automation, and platform engineering. They are intended to demonstrate hands-on DevOps skills and technical depth for recruiter review and technical interviews.
+The repositories above represent practical implementation work in cloud, automation, and platform engineering.
 
 ---
 
