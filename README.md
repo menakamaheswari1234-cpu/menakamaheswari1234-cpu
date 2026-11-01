@@ -41,7 +41,7 @@ I am a DevOps Engineer focused on automation, cloud infrastructure, and platform
 
 | Project | What it demonstrates | Stack |
 |---|---|---|
-| [**AWS GitOps Platform**](https://github.com/menakamaheswari1234-cpu/aws-gitops-platform) | End-to-end GitOps on AWS: infrastructure automation, Kubernetes deployment, CI checks, and monitoring patterns | `AWS` `Terraform` `Kubernetes` `ArgoCD` `GitHub Actions` `Prometheus` `Grafana` |
+| [**Motor Insurance Policy Service**](https://github.com/menakamaheswari1234-cpu/motor-insurance/tree/main/policy-service) | Python microservice for motor insurance policy management with REST APIs, containerized with Docker | `Python` `REST API` `Docker` |
 | [**DevOps Portfolio**](https://github.com/menakamaheswari1234-cpu/devops-portfolio) | Hands-on projects across CI/CD, AWS automation, Ansible, DevSecOps, Kubernetes monitoring, and GitOps | `Jenkins` `Ansible` `Docker` `Trivy` `SonarQube` |
 | [**Cloud Platform Engineering**](https://github.com/menakamaheswari1234-cpu/cloud-platform-engineering) | Terraform EKS platform with remote-state bootstrap, Jenkins DevSecOps pipeline (SonarQube, Trivy), ArgoCD GitOps, and Python health checks | `AWS` `Terraform` `EKS` `Jenkins` `ArgoCD` `Python` |
 
